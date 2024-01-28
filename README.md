@@ -3,8 +3,8 @@ Dit project bevat een interactief dashboard dat is ontworpen om gebruikers inzic
 De main focus van deze data dashboard is de kolom IN_LEVEN_3_MAANDEN, deze kolom geeft aan de patient die op de ic heeft of ligt is overleden of nog levend is bij de 3 maanden  mark. Deze is gekoppeld aan verschillende factoren voor de gebruiker om te veranderen.
 
 ## Inhoud
-Functionaliteiten
-Installatie
+Functionaliteiten <br>
+Installatie <br>
 
 
 ### functionaliteiten
