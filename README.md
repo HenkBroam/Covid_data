@@ -6,6 +6,7 @@ De main focus van deze data dashboard is de kolom IN_LEVEN_3_MAANDEN, deze kolom
 Functionaliteiten
 Installatie
 
+
 ### functionaliteiten
 In de interactieve dashboard staat verschillende tabs. 
 Elke tab geeft een ander functionaliteit.
@@ -29,6 +30,17 @@ De blauwe lijn representateerd het aantal kcal dat de patient nodig heeft.
 
 #### 4e tab
 Op de 4e tab is de informatie tab te zien, hier staat wat de assen en termen betekenen.
+
+### Instalatie 
+git clone https://github.com/HenkBroam/Covid_data.git
+python -m venv venv
+source venv/bin/activate  # Voor Windows gebruik 'venv\Scripts\activate'
+pip install -r requirements.txt
+python main.py
+
+zorg ervoor dat de file path namen juist zijn en dat de namen van de data bestanden goed zijn.
+
+
 
 
 
