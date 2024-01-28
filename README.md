@@ -32,11 +32,11 @@ De blauwe lijn representateerd het aantal kcal dat de patient nodig heeft.
 Op de 4e tab is de informatie tab te zien, hier staat wat de assen en termen betekenen.
 
 ### Instalatie 
-git clone https://github.com/HenkBroam/Covid_data.git
-python -m venv venv
-source venv/bin/activate  # Voor Windows gebruik 'venv\Scripts\activate'
-pip install -r requirements.txt
-python main.py
+git clone https://github.com/HenkBroam/Covid_data.git <br>
+python -m venv venv <br>
+source venv/bin/activate  <br>
+pip install -r requirments.txt <br>
+python main.py <br>
 
 zorg ervoor dat de file path namen juist zijn en dat de namen van de data bestanden goed zijn.
 
