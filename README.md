@@ -7,7 +7,7 @@ Functionaliteiten <br>
 Installatie <br>
 
 
-### functionaliteiten
+### Functionaliteiten
 In de interactieve dashboard staat verschillende tabs. 
 Elke tab geeft een ander functionaliteit.
 
