@@ -41,7 +41,7 @@ python main.py <br>
 zorg ervoor dat de file path namen juist zijn en dat de namen van de data bestanden goed zijn.
 
 ### Foto
-![Alt Text](foto dashboard.png)
+![Foto dashboard](foto dashboard.png)
 
 
 
